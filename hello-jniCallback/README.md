@@ -1,6 +1,6 @@
 Hello JNI Callback
 ==================
-This sample is an Aadd-on to Hello JNI sample to demonstrate calling back to Java from C code
+This sample is an add-on to Hello JNI sample to demonstrate calling back to Java from C code
 - create a java class instance from C code
 - call java class static and non-static member functions
 
@@ -16,7 +16,7 @@ Getting Started
 1. Launch Android Studio.
 1. Open the sample directory.
 1. Open *File/Project Structure...*
-  - Click *Download* or *Select NDK location*.
+    - Click *Download* or *Select NDK location*.
 1. Click *Tools/Android/Sync Project with Gradle Files*.
 1. Click *Run/Run 'app'*.
 
